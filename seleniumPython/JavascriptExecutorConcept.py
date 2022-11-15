@@ -50,4 +50,4 @@ driver.execute_script("window.scrollTo(document.body.scrollHeight,0)")  #javascr
 time.sleep(3)
 
 driver.execute_script("document.getElementById('twotabsearchtextbox').value='watches'") #javascript sendkeys
-time.sleep(3)
+time.sleep(5)
