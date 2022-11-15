@@ -1,0 +1,11 @@
+1667208230633	geckodriver	INFO	Listening on 127.0.0.1:60663
+1667208233702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\angap\\AppData\\Local\\Temp\\rust_mozprofile0J8uwm"
+1667208234251	Marionette	INFO	Marionette enabled
+1667208234258	Marionette	INFO	Listening on port 60675
+Read port: 60675
+WebDriver BiDi listening on ws://127.0.0.1:60664
+1667208234440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\angap\\AppData\\Local\\Temp\\rust_mozprofile0J8uwm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60664/devtools/browser/c7feb5e5-ea6e-4360-8024-c2e5179a4349
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.hubspot.com."
+1667208245494	Marionette	INFO	Stopped listening on port 60675
